@@ -9,11 +9,15 @@ This project is a movie recommender system built using data from two Kaggle data
 1. Install required libraries:
 Make sure you have the necessary Python libraries installed. You can install them using pip:
 
-'pip install pandas numpy scikit-learn nltk'
+```
+pip install pandas numpy scikit-learn nltk
+```
 2. Jupyter Notebook:
 Ensure you have Jupyter Notebook installed and running. You can install Jupyter Notebook using pip if you don't have it:
 
-'pip install notebook'
+```
+pip install notebook
+```
 ## Download datasets:
 Download movies.csv and credits.csv from Kaggle and place them in your working directory.
 
